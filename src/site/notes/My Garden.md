@@ -3,3 +3,4 @@
 ---
 
 yo wassup my bitches
+[[page2\|page2]]
