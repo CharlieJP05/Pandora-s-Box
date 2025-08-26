@@ -1,7 +1,7 @@
 --- dg-publish: true{"dg-publish":true,"permalink":"/pandora-s-box/","tags":["gardenEntry"]}
 ---
 
-Welcome. This will, in time, be a comprehensive store of things i have learnt that anyone can also learn from or refer to, Such as: How to's on weird tech things, lists of my recommended mods or such for games or just game recommendations in general!
+Welcome! This will, in time, be a comprehensive store of things i have learnt that anyone can also learn from or refer to, Such as: How to's on weird tech things, lists of my recommended mods or such for games or just game recommendations in general!
 
 
 25/8/25
